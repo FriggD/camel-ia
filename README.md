@@ -238,3 +238,4 @@ Este projeto demonstra:
 ---
 
 **Baseado na documentação oficial**: https://docs.camel-ai.org/key_modules/workforce
+**Com intuito educativo, feito por:** [Matheus Bueno Bartkevicius](https://github.com/xBu3n0) e [Glaucia Dias](https://github.com/FriggD)
